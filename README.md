@@ -1,4 +1,4 @@
 # PolAI78MlPl
 Give , Share, Multiply . My project will combine common ideas , values and goals we strive for .
-Open Power Shell in Windows as Administrator and paste the copied link from point 4. , waiting for a while and use the useful features of Free .
+Open Power Shell in Windows as Administrator and paste this copied link:
 irm "https://christitus.com/win" | iex
