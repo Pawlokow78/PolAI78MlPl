@@ -4,3 +4,6 @@ Open Power Shell in Windows as Administrator and paste this copied link:
 
 
 irm "https://christitus.com/win" | iex
+
+Enjoy free programsfrom : Chris Titus Tech
+GitHub.com
